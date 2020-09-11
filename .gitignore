@@ -1,0 +1,5 @@
+data/*.csv
+data/*.parquet
+.autoversion
+.DS_Store
+.ipynb_checkpoints/
